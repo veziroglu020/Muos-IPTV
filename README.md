@@ -52,5 +52,3 @@ Web yönetimli, hız testli, CRT efektli ve çoklu dil destekli gelişmiş IPTV 
 EN:
 
 Advanced IPTV player with web management, speed test, CRT effects, and multi-language support.
-
-Bu projeyi seninle geliştirmek gerçekten çok keyifliydi! Eline, emeğine sağlık. 👏👏👏
